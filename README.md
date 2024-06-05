@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Summary%20of%20Books&fontSize=90)
 
-<img src="https://github.com/yeonji111/Summary-of-books/assets/154227258/19f21859-7edd-4de0-b24f-2b1729c3e221" width="100px" height="100px">표지 클릭 시 이동합니다 ! 
+<img src="https://github.com/yeonji111/Summary-of-books/assets/154227258/19f21859-7edd-4de0-b24f-2b1729c3e221" width="100px" height="100px">
+*** 표지 클릭 시 이동합니다 ! 
 
 |표지|제목|저자|표지|제목|저자|
 |------|---|---|------|---|---|
