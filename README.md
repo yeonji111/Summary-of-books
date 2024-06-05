@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Summary%20of%20Books&fontSize=90)
 
-** 표지 클릭 시 이동합니다 ! 
+* 표지 클릭 시 이동합니다 ! 
 
 |표지|제목|저자|표지|제목|저자|
 |------|---|---|------|---|---|
