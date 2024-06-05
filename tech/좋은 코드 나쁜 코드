@@ -1,6 +1,7 @@
-[!image](https://image.aladin.co.kr/product/29464/92/cover500/k422837236_1.jpg).
-[!img](https://image.aladin.co.kr/product/29464/92/cover500/k422837236_1.jpg)
-## 코드 품질 네 가지 상위 목표
+![image](https://image.aladin.co.kr/product/29464/92/cover500/k422837236_1.jpg)
+---
+
+### 코드 품질 네 가지 상위 목표
 1. 작동해야 한다.
 2. 작동이 멈춰서는 안된다.
 3. 변화하는 요구 사항에 적응해야 한다.
